@@ -7,3 +7,4 @@ Test merge with no--ff model.
 Test merge with Fast Forward model.
 Fixing bug...
 Move the files.
+Creating my git server.
